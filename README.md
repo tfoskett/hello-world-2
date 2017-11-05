@@ -1,2 +1,4 @@
 # hello-world-2
-hello world intro project
+hello world project
+
+Do the thing.
